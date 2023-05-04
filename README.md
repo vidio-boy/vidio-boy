@@ -8,6 +8,9 @@
  </head>
   
  <body>
+  
+  ![vidio-boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidio-boy&show_icons=true&theme=dark)
+  
   <h2>ᴄᴏᴍɪɴɢ sᴏᴏɴ:</h2>
     <p><li>🎮 ᴍᴏʀᴇ ɢᴀᴍᴇs 🎮</li></p>
     <p><li>💻 ʙᴏᴏᴋᴍᴀʀᴋʟᴇᴛs 💻</li></p>
@@ -31,8 +34,6 @@
     
   <h2>ᴄᴏɴᴛᴀᴄᴛ:</h2>
      <p><li>📨 ᴠɪᴅɪᴏ-ʙᴏʏ@ᴏᴜᴛʟᴏᴏᴋ.ᴄᴏᴍ 📨</li></p>
-  
-  ![vidio-boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidio-boy&show_icons=true&theme=dark)
   
  </body>
 
