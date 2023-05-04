@@ -31,6 +31,8 @@
     
   <h2>ᴄᴏɴᴛᴀᴄᴛ:</h2>
      <p><li>📨 ᴠɪᴅɪᴏ-ʙᴏʏ@ᴏᴜᴛʟᴏᴏᴋ.ᴄᴏᴍ 📨</li></p>
+  
+  [![vidio-boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidio-boy)](https://github.com/anuraghazra/github-readme-stats)
  </body>
 
 </html>
