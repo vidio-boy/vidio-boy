@@ -11,8 +11,6 @@
   
   ![vidio-boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidio-boy&show_icons=true&theme=dark)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidio-boy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
   <h2>ᴄᴏᴍɪɴɢ sᴏᴏɴ:</h2>
     <p><li>🎮 ᴍᴏʀᴇ ɢᴀᴍᴇs 🎮</li></p>
     <p><li>💻 ʙᴏᴏᴋᴍᴀʀᴋʟᴇᴛs 💻</li></p>
